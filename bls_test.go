@@ -1,4 +1,4 @@
-package bls
+package gobls
 
 import "testing"
 import "strconv"

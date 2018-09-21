@@ -1,4 +1,4 @@
-package bls
+package gobls
 
 /*
 #cgo CFLAGS:-I../../../include -I../../../../mcl/include/

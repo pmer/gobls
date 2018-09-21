@@ -1,4 +1,4 @@
-package bls
+package gobls
 
 /*
 #cgo CFLAGS:-DMCLBN_FP_UNIT_SIZE=6
