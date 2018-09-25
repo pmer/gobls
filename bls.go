@@ -2,7 +2,7 @@ package gobls
 
 /*
 #cgo CFLAGS:-DMCLBN_FP_UNIT_SIZE=4
-#cgo LDFLAGS:-lbls -lgmpxx -lstdc++ -lgmp -lcrypto
+#cgo LDFLAGS:-lbls -lmcl -lgmpxx -lstdc++ -lgmp -lcrypto
 #include <bls/bls.h>
 */
 import "C"
